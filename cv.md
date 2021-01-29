@@ -1,6 +1,9 @@
 # Curiculum Vitae
+
 ### 1. Yauheni Smirnou (03.02.1998)
+
 ### 2. SmirnovEuV@gmail.com
+
 ### 3. Wannabe Front-end developer, medical university graduate.
 
     One of the most important skills that I got at the university are skills:  
@@ -12,13 +15,17 @@
     **My porpose** here is to get some skills to make some money using my brain properly. 
 
     I like getting new skills, open new hobbies, and also I'm interested in programming, so I think that I have great opportunities in IT.
+
 ### 4. Skills:
+
     * Learning JS with [learn.JS.ru](https://learn.javascript.ru/),
     * started solving tasks on [CodeWars](https://www.codewars.com/),
     * CSS & HTML basics (learned basics and created a few pages),
     * Git basics (from [GitHowTo.com](https://githowto.com/ru) and trained them with CSS & HTML tasks, RSS Q0 tasks),
     * Some Photoshop & Lightroom skills,
+
 ### 5. Code example:
+
     ```
     // write the function isAnagram
 
@@ -53,4 +60,15 @@
     return result;
     };
     ```
-### 6. 
+
+### 6. Working experience:
+
+    Have no any eperience in IT
+
+### 7. Education:
+
+    * [BSMU](https://www.bsmu.by/) graduate
+
+### 8. English skills:
+
+    **B1 Intermediate**
