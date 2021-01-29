@@ -18,7 +18,7 @@ I like getting new skills, open new hobbies, and also I'm interested in programm
 * CSS & HTML basics (learned basics and created a few pages),
 * Git basics (from [GitHowTo.com](https://githowto.com/ru) and trained them with CSS & HTML tasks, RSS Q0 tasks),
 * Some Photoshop & Lightroom skills,
-
+\
 ### 5. Code example:
 ```
     // write the function isAnagram
