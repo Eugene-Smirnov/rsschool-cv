@@ -58,8 +58,7 @@ I like getting new skills, open new hobbies, and also I'm interested in programm
 ### 6. Working experience:
 Have no any eperience in IT
 ### 7. Education:
-* [BSMU](https://www.bsmu.by/) graduate.  
-\
+* [BSMU](https://www.bsmu.by/) graduate.
 
 ### 8. English skills:
 **B1 Intermediate**
