@@ -38,29 +38,29 @@
                 </ul>
             </li>
             <li><h2>Code example:</h2>
-                <code>
-                    function mygcd(x,y){<br>
-                        let big = getBigger(x,y);<br>
-                        let little = getLess(x,y);<br>
-                        if (big % little === 0) return little;<br>
-                        let result = 1;<br>
-                        for (let i = 0; i >= 0; i++) {<br>
-                          if (big % little === 0) return result;<br>
-                          result = big % little;<br>
-                          big = little;<br>
-                          little = result;<br>    
-                        }<br>
-                        return result;<br>
-                      };<br>
-                      <br>
-                      function getBigger(x,y) {<br>
-                        return x > y ? x : y;<br>
-                      }<br>
-                      <br>
-                      function getLess(x,y) {<br>
-                        return x < y ? x : y;<br>
-                      }<br>
-                </code>
+<code><pre>
+    function mygcd(x,y){<br>
+        let big = getBigger(x,y);<br>
+        let little = getLess(x,y);<br>
+        if (big % little === 0) return little;<br>
+        let result = 1;<br>
+        for (let i = 0; i >= 0; i++) {<br>
+            if (big % little === 0) return result;<br>
+            result = big % little;<br>
+            big = little;<br>
+            little = result;<br>    
+        }<br>
+        return result;<br>
+        };<br>
+        <br>
+        function getBigger(x,y) {<br>
+        return x > y ? x : y;<br>
+        }<br>
+        <br>
+        function getLess(x,y) {<br>
+        return x < y ? x : y;<br>
+        }<br>
+</pre></code>
             </li>
             <li><h2>Working experience:</h2>
                 <p>Have no any eperience in IT</p>
