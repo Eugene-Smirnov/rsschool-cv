@@ -3,7 +3,7 @@
 ### 1. Yauheni Smirnou (03.02.1998)
 ### 2. SmirnovEuV@gmail.com
 ### 3. Wannabe Front-end developer, medical university graduate.
-One of the most important skills that I got at the university are skills:  
+Most important skills that I got at the university are skills:  
 * to study,
 * to find the main thing in a lots of sources,
 * to find different needed information in the Internet,
