@@ -8,12 +8,17 @@ body {
     background-image: url(img/bg3.gif)
 }
 
-header {
+header,
+main {
     width: 80vw;
 
     padding: 40px;
 
-    background-color: rgba(250, 250, 210, 0.8);
+    background-color: rgba(255, 160, 122, 0.8);
     margin-bottom: 40px;
     border-radius: 1rem;
+}
+
+main {
+    background-color: rgba(255, 234, 143, 0.8);
 }
