@@ -47,10 +47,10 @@ main {
     display: none;
 }
 
-code {
+pre {
     display: flex;
     background-color: rgba(96, 183, 209, 0.5);
-    border-radius: 1rem;
+    border-radius: 1em;
 }
 
 @media screen and (max-width: 820px) {
@@ -65,6 +65,23 @@ code {
         width: 70%;
     }
 
+    li {
+        font-size: 16px;
+        max-width: 100%;
+    }
+
+    pre {
+        font-size: 12px;
+    }
+
+    h1 {
+        font-size: 28px;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
     .avatar img:first-child {
         display: none;
     }
@@ -75,14 +92,24 @@ code {
 }
 
 @media screen and (max-width: 460px) {
+    body {
+        margin-bottom: 4px;
+    }
+
     header,
     main {
-        padding: 10px;
+        padding: 4px;
         max-width: 100%;
+        margin-bottom: 4px;
+    }
+
+    ol {
+        padding: 0px 4px 0px 15px
     }
 
     li {
-        font-size: 14px;
+        font-size: 11px;
+        max-width: 100%;
     }
 
     .avatar {
@@ -95,10 +122,10 @@ code {
     }
 
     h2 {
-        font-size: 20px;
+        font-size: 14px;
     }
 
-    code {
+    pre {
         font-size: 8px;
     }
 }
