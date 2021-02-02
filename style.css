@@ -56,8 +56,8 @@ code {
 @media screen and (max-width: 820px) {
     header,
     main {
+        box-sizing: border-box;
         width: 90vw;
-
         padding: 15px;
     }
 
@@ -71,5 +71,34 @@ code {
 
     .avatar img:last-child {
         display: block;
+    }
+}
+
+@media screen and (max-width: 460px) {
+    header,
+    main {
+        padding: 10px;
+        max-width: 100%;
+    }
+
+    li {
+        font-size: 14px;
+    }
+
+    .avatar {
+        width: 100%;
+    }
+
+    h1 {
+        font-size: 28px;
+        text-align: center;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
+    code {
+        font-size: 10px;
     }
 }
