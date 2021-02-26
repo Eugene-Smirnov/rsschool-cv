@@ -56,7 +56,7 @@ I like getting new skills, open new hobbies, and also I'm interested in programm
 ```
 
 ### 6. Working experience:
-Have no any eperience in IT
+Have no any experience in IT
 ### 7. Education:
 * [BSMU](https://www.bsmu.by/) graduate
 
